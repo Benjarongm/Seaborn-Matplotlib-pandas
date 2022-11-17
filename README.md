@@ -1,2 +1,2 @@
-# Seaborn​ , Matplotlib, pandas
-Python: Seaborn, Matplotlib, pandas
+# Seaborn​|Matplotlib|pandas
+Python: Seaborn,Matplotlib,pandas
